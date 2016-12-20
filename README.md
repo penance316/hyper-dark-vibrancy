@@ -2,6 +2,8 @@
 
 A dark demo theme for [Hyper](https://hyper.is) to showoff the new vibrancy effect on macOS only.
 
+<img src="https://github.com/penance316/hyper-dark-vibrancy/blob/master/screenshot.png?raw=true"/>
+
 ## Install
 
 Add `hyper-dark-vibrancy` to your plugins list in `~/.hyperterm.js`:
