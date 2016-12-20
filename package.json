@@ -1,6 +1,6 @@
 {
   "name": "hyper-dark-vibrancy",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A demo theme for hyperterm to demonstrate the vibrancy effect on macOS",
   "main": "index.js",
   "scripts": {
